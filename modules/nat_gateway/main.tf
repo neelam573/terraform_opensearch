@@ -16,4 +16,3 @@ resource "aws_nat_gateway" "nat" {
 
 
 
-#aws_subnet.opensearch_publicsubnet.id
